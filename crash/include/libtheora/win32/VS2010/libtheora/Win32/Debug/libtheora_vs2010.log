@@ -1,0 +1,42 @@
+﻿生成启动时间为 2019/7/11 10:24:32。
+     1>项目“C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\libtheora\win32\VS2010\libtheora\libtheora_vs2010.vcxproj”在节点 4 上(Build 个目标)。
+     1>Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\lib\libtheorad.lib" /NOLOGO Win32\Debug\analyze.obj
+         Win32\Debug\apiwrapper.obj
+         Win32\Debug\bitpack.obj
+         Win32\Debug\cpu.obj
+         Win32\Debug\decapiwrapper.obj
+         Win32\Debug\decinfo.obj
+         Win32\Debug\decode.obj
+         Win32\Debug\dequant.obj
+         Win32\Debug\encapiwrapper.obj
+         Win32\Debug\encfrag.obj
+         Win32\Debug\encinfo.obj
+         Win32\Debug\encode.obj
+         Win32\Debug\enquant.obj
+         Win32\Debug\fdct.obj
+         Win32\Debug\fragment.obj
+         Win32\Debug\huffdec.obj
+         Win32\Debug\huffenc.obj
+         Win32\Debug\idct.obj
+         Win32\Debug\info.obj
+         Win32\Debug\internal.obj
+         Win32\Debug\mathops.obj
+         Win32\Debug\mcenc.obj
+         Win32\Debug\quant.obj
+         Win32\Debug\rate.obj
+         Win32\Debug\state.obj
+         Win32\Debug\tokenize.obj
+         Win32\Debug\mmxencfrag.obj
+         Win32\Debug\mmxfdct.obj
+         Win32\Debug\mmxfrag.obj
+         Win32\Debug\mmxidct.obj
+         Win32\Debug\mmxstate.obj
+         Win32\Debug\x86enc.obj
+         Win32\Debug\x86state.obj
+         libtheora_vs2010.vcxproj -> C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\lib\libtheorad.lib
+     1>已完成生成项目“C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\libtheora\win32\VS2010\libtheora\libtheora_vs2010.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.36

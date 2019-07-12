@@ -1,0 +1,37 @@
+﻿  x86state.c
+  x86enc.c
+  mmxstate.c
+  mmxidct.c
+  mmxfrag.c
+  mmxfdct.c
+  mmxencfrag.c
+  tokenize.c
+  state.c
+  rate.c
+  quant.c
+  mcenc.c
+  mathops.c
+  internal.c
+  info.c
+  idct.c
+  huffenc.c
+  huffdec.c
+  fragment.c
+  fdct.c
+  Generating Code...
+  Compiling...
+  enquant.c
+  encode.c
+  encinfo.c
+  encfrag.c
+  encapiwrapper.c
+  dequant.c
+  decode.c
+  decinfo.c
+  decapiwrapper.c
+  cpu.c
+  bitpack.c
+  apiwrapper.c
+  analyze.c
+  Generating Code...
+  libtheora_vs2010.vcxproj -> F:\Easy_Jtag_Manager\CrashRPT64\thirdparty\lib\x64\libtheorad.lib

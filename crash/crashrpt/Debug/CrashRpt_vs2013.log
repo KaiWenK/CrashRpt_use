@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/7/11 17:28:13。
+     1>项目“E:\project\VS2013_2018改版\crash\crashrpt\CrashRpt_vs2013.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\ /I..\include /I..\include\tinyxml /I..\include\zlib /I..\include\libpng /I..\include\wtl /ZI /nologo /W4 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CRASHRPT_EXPORTS /D _VC80_UPGRADE=0x0600 /D _USING_V110_SDK71_ /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /fp:except /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CrashRptd.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\ /I..\include /I..\include\tinyxml /I..\include\zlib /I..\include\libpng /I..\include\wtl /ZI /nologo /W4 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CRASHRPT_EXPORTS /D _VC80_UPGRADE=0x0600 /D _USING_V110_SDK71_ /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /fp:except /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CrashRptd.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt CrashHandler.cpp CrashRpt.cpp SharedMem.cpp Utility.cpp
+         CrashHandler.cpp
+         CrashRpt.cpp
+         SharedMem.cpp
+         Utility.cpp
+     1>e:\project\vs2013_2018改版\crash\crashrpt\crashrpt.cpp(782): warning C4702: 无法访问的代码
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0804" /I..\include\wtl /I..\include\wtl /nologo /fo"Debug\CrashRpt.res" CrashRpt.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\project\VS2013_2018改版\Debug\CrashRptd.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\third_lib\libd psapi.lib mapi32.lib Rpcrt4.lib version.lib shell32.lib Comdlg32.lib gdi32.lib psapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"CrashRpt.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\project\VS2013_2018改版\Debug\CrashRptd.pdb" /TLBID:1 /BASE:"0x20000000" /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\pbq\lib\CrashRptd.lib" /MACHINE:X86 /SAFESEH /DLL Debug\CrashRpt.res
+         Debug\CrashHandler.obj
+         Debug\CrashRpt.obj
+         Debug\SharedMem.obj
+         Debug\StdAfx.obj
+         Debug\Utility.obj
+     1>CrashHandler.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+            正在创建库 ..\..\pbq\lib\CrashRptd.lib 和对象 ..\..\pbq\lib\CrashRptd.exp
+         CrashRpt_vs2013.vcxproj -> E:\project\VS2013_2018改版\Debug\CrashRptd.dll
+       BscMake:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"E:\project\VS2013_2018改版\Debug\CrashRptd.bsc" Debug\CrashHandler.sbr Debug\CrashRpt.sbr Debug\SharedMem.sbr Debug\StdAfx.sbr Debug\Utility.sbr
+     1>已完成生成项目“E:\project\VS2013_2018改版\crash\crashrpt\CrashRpt_vs2013.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.92

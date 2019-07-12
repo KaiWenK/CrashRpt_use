@@ -1,0 +1,78 @@
+﻿生成启动时间为 2019/7/11 10:23:09。
+     1>项目“C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\libtheora\win32\VS2010\libtheora\libtheora_vs2010.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\..\include /I..\..\..\lib /I..\..\..\..\libogg\include /I..\..\..\..\..\..\..\core\ogg\libogg\include\ /I"..\..\..\..\libogg-1.1.4\include" /I..\..\..\..\ogg\include /I..\..\..\..\..\..\..\core\ogg\libogg\include /nologo /W4 /WX- /O2 /Ob2 /Oi /Ot /Oy- /GL /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D LIBTHEORA_EXPORTS /D OC_X86_ASM /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /GF /Gm- /MD /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /wd4132 /wd4245 /wd4018 /wd4554 /wd4244 /wd4700 /wd4701 /wd4405 /wd4101 /wd4214 /wd4127 /wd4100 /wd4389 /analyze- /errorReport:prompt ..\..\..\lib\analyze.c ..\..\..\lib\apiwrapper.c ..\..\..\lib\bitpack.c ..\..\..\lib\cpu.c ..\..\..\lib\decapiwrapper.c ..\..\..\lib\decinfo.c ..\..\..\lib\decode.c ..\..\..\lib\dequant.c ..\..\..\lib\encapiwrapper.c ..\..\..\lib\encfrag.c ..\..\..\lib\encinfo.c ..\..\..\lib\encode.c ..\..\..\lib\enquant.c ..\..\..\lib\fdct.c ..\..\..\lib\fragment.c ..\..\..\lib\huffdec.c ..\..\..\lib\huffenc.c ..\..\..\lib\idct.c ..\..\..\lib\info.c ..\..\..\lib\internal.c ..\..\..\lib\mathops.c ..\..\..\lib\mcenc.c ..\..\..\lib\quant.c ..\..\..\lib\rate.c ..\..\..\lib\state.c ..\..\..\lib\tokenize.c ..\..\..\lib\x86_vc\mmxencfrag.c ..\..\..\lib\x86_vc\mmxfdct.c ..\..\..\lib\x86_vc\mmxfrag.c ..\..\..\lib\x86_vc\mmxidct.c ..\..\..\lib\x86_vc\mmxstate.c ..\..\..\lib\x86_vc\x86enc.c ..\..\..\lib\x86_vc\x86state.c
+         analyze.c
+         apiwrapper.c
+         bitpack.c
+         cpu.c
+         decapiwrapper.c
+         decinfo.c
+         decode.c
+         dequant.c
+         encapiwrapper.c
+         encfrag.c
+         encinfo.c
+         encode.c
+         enquant.c
+         fdct.c
+         fragment.c
+         huffdec.c
+         huffenc.c
+         idct.c
+         info.c
+         internal.c
+         正在编译...
+         mathops.c
+         mcenc.c
+         quant.c
+         rate.c
+         state.c
+         tokenize.c
+         mmxencfrag.c
+         mmxfdct.c
+         mmxfrag.c
+         mmxidct.c
+         mmxstate.c
+         x86enc.c
+         x86state.c
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\libr\libtheora.lib" /NOLOGO /LTCG Release\analyze.obj
+         Release\apiwrapper.obj
+         Release\bitpack.obj
+         Release\cpu.obj
+         Release\decapiwrapper.obj
+         Release\decinfo.obj
+         Release\decode.obj
+         Release\dequant.obj
+         Release\encapiwrapper.obj
+         Release\encfrag.obj
+         Release\encinfo.obj
+         Release\encode.obj
+         Release\enquant.obj
+         Release\fdct.obj
+         Release\fragment.obj
+         Release\huffdec.obj
+         Release\huffenc.obj
+         Release\idct.obj
+         Release\info.obj
+         Release\internal.obj
+         Release\mathops.obj
+         Release\mcenc.obj
+         Release\quant.obj
+         Release\rate.obj
+         Release\state.obj
+         Release\tokenize.obj
+         Release\mmxencfrag.obj
+         Release\mmxfdct.obj
+         Release\mmxfrag.obj
+         Release\mmxidct.obj
+         Release\mmxstate.obj
+         Release\x86enc.obj
+         Release\x86state.obj
+         libtheora_vs2010.vcxproj -> C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\libr\libtheora.lib
+     1>已完成生成项目“C:\Users\xiongwenkai\Desktop\crashrpt64.git\trunk\thirdparty\libtheora\win32\VS2010\libtheora\libtheora_vs2010.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.71
