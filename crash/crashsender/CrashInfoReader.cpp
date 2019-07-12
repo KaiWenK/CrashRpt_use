@@ -1511,12 +1511,12 @@ CString CCrashInfoReader::GetPersistentUserEmail()
 {
 	// Read the E-mail last entered by user and stored in INI file.
 	//return Utility::GetINIString(m_sINIFile, _T("General"), _T("EmailFrom"));
-	return _T("purang_pbqsender@purang.com");
+	return _T("1298074546@qq.com");
 }
 
 void CCrashInfoReader::SetPersistentUserEmail(LPCTSTR szEmail)
 {
 	// Save user's E-mail to INI file for later reuse.
 	//Utility::SetINIString(m_sINIFile, _T("General"), _T("EmailFrom"), szEmail);
-	Utility::SetINIString(m_sINIFile, _T("General"), _T("EmailFrom"), _T("purang_pbqsender@purang.com"));
+	Utility::SetINIString(m_sINIFile, _T("General"), _T("EmailFrom"), _T("1298074546@qq.com"));
 }

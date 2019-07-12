@@ -186,7 +186,7 @@
       <ModuleDefinitionFile>CrashRpt.def</ModuleDefinitionFile>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <OptimizeReferences>true</OptimizeReferences>
-      <ImportLibrary>..\..\pbq\lib\$(TargetName).lib</ImportLibrary>
+      <ImportLibrary>..\..\test\lib\$(TargetName).lib</ImportLibrary>
       <TargetMachine>MachineX86</TargetMachine>
       <LinkTimeCodeGeneration>
       </LinkTimeCodeGeneration>
@@ -287,7 +287,7 @@
       <ModuleDefinitionFile>CrashRpt.def</ModuleDefinitionFile>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <BaseAddress>0x20000000</BaseAddress>
-      <ImportLibrary>..\..\pbq\lib\$(TargetName).lib</ImportLibrary>
+      <ImportLibrary>..\..\test\lib\$(TargetName).lib</ImportLibrary>
       <TargetMachine>MachineX86</TargetMachine>
       <MinimumRequiredVersion />
     </Link>
